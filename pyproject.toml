@@ -4,7 +4,7 @@ version = "0.2.0"
 description = "pySigma Elasticsearch backend"
 authors = ["Thomas Patzke <thomas@patzke.org>"]
 license = "LGPL-3.0-only"
-repository = "https://github.com/SigmaHQ/pySigma-backend-elasticsearch"
+repository = "https://github.com/socprime/pySigma-backend-elasticsearch"
 packages = [
     { include = "sigma" }
 ]
